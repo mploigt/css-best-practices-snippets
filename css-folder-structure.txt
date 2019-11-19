@@ -1,0 +1,16 @@
+├── /base
+│  ├── _base.scss
+│  ├── _colors.scss
+│  ├── _settings.scss
+│  └── _typography.scss
+├── /utils
+│  ├── _animations.scss
+│  ├── _flex.scss
+│  ├── _grid.scss
+│  └── _media.scss
+├── /components
+│  ├── _header.scss
+│  ├── _footer.scss
+│  ├── _button.scss
+│  └── _dropdown.scss
+└── main.scss
